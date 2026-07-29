@@ -1,6 +1,3 @@
-streamlit
-pandas
-reportlab
-matplotlib
-plotly
-python-dotenv
+streamlit==1.28.1
+pandas==2.0.3
+# reportlab==4.0.4  # PDF export - optional, install if needed: pip install reportlab
